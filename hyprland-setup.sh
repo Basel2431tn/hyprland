@@ -48,4 +48,4 @@ makepkg -si --noconfirm
 cd ..
 rm -rf yay
 
-echo "Setup complete! You may want to reboot now."
+echo "✅ Setup complete! You may want to reboot now."
